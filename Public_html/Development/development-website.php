@@ -17,10 +17,10 @@
         </div>
 
         <div class="options">
-            <a href=""> <button>add project</button></a>
-            <a href=""> <button> edit project</button></a>
-            <a href=""> <button>not creditworth costumer</button></a>
-            <a href=""> <button>costumers info</button> </a>
+            <a href="editProject.php"> <button>Add project</button></a>
+            <a href="addProject.php"> <button>Edit project</button></a>
+            <a href=""> <button>Not creditworthy costumer</button></a>
+            <a href=""> <button>Costumers info</button> </a>
         </div>
     </div>
 
