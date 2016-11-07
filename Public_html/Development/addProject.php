@@ -5,7 +5,7 @@
  * Date: 30-10-2016
  * Time: 20:56
  */
-
+require_once '../header.php'
 ?>
 <div class="content">
     <h1>Add project</h1>

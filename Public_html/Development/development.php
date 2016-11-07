@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-
+<?php require_once '../header.php' ?>
 <body>
 <div class="content">
     <div class="btn">

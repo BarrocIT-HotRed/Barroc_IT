@@ -5,7 +5,7 @@
  * Date: 31-10-2016
  * Time: 08:58
  */
-
+require_once '../header.php'
 ?>
 
     <div class="content">
@@ -13,7 +13,7 @@
         <img src="" alt="">
 
         <div class="costumer_info">
-            <?php  ?>
+            <?php   ?>
         </div>
 
         <div class="options">
